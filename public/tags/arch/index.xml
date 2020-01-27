@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch on Evocations</title>
+    <link>http://www.evocations.info/tags/arch/</link>
+    <description>Recent content in Arch on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arch boot broken due to umount /boot</title>
+      <link>http://www.evocations.info/blog/2020/01/arch-boot-broken-due-to-umount-boot-boot/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/arch-boot-broken-due-to-umount-boot-boot/</guid>
+      <description>I can’t pin down exactly when it happened, but at some point my laptop’s Arch partition stopped booting. It would give me an error “You must load the Linux kernel first!” What in hell do you mean by that? What changed since last week? You were fine last time I used you!
+I suspected an issue with GRUB, but I understand now what actually happened. Some how, Linux had upgraded without /boot mounted, causing a version discrepency.</description>
+    </item>
+    
+  </channel>
+</rss>

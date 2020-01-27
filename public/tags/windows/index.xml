@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Evocations</title>
+    <link>http://www.evocations.info/tags/windows/</link>
+    <description>Recent content in Windows on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Booting a Preexisting OS in Virtualbox</title>
+      <link>http://www.evocations.info/blog/2020/01/booting-a-preexisting-os-in-virtualbox/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/booting-a-preexisting-os-in-virtualbox/</guid>
+      <description>I had an idea to get around rebooting to play some of the Windows games I enjoy. Why not virtualize a windows environment? What kind of performance can I get from a Windows VM?
+Unfortunately, not great performance without some serious tinkering.
+My current configuration is dual-boot Windows (Gaming) and Arch Linux (Work/Browsing). Quite a lot of my data was created before installing Linux, and at this point, would be too much of a hastle to organize.</description>
+    </item>
+    
+  </channel>
+</rss>

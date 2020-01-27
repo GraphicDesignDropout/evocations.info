@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on Evocations</title>
+    <link>http://www.evocations.info/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Wed, 22 Jan 2020 15:36:02 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wow, That&#39;s a Lot of Chinese Bots</title>
+      <link>http://www.evocations.info/blog/2020/01/wow-thats-a-lot-of-chinese-bots/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/wow-thats-a-lot-of-chinese-bots/</guid>
+      <description>If you’re new to IT like me, you might be surprised by how much your server is targeted. I run a small home server using a Raspberry Pi. It allows SSH connections via web, and I had no idea how much traffic it could get. I got curious and checked /var/log/auth.log.
+Tens of failed authorizations each second.
+Most of the IP address were coming from Chinese ISPs, or DigitalOcean servers. I wonder what these bots do once they break in?</description>
+    </item>
+    
+  </channel>
+</rss>

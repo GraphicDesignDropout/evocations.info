@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.evocations.info/blog/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/cms/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/blog/2020/01/creating-a-site-with-hugo/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/css/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/html/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/hugo/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/site/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/web-dev/</loc>
+    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/apache2/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/python/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/raspberry-pi/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/raspbian/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/ssh/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/web-server/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/blog/2020/01/wow-thats-a-lot-of-chinese-bots/</loc>
+    <lastmod>2020-01-22T15:36:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/blog/2020/01/booting-a-preexisting-os-in-virtualbox/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/gaming/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/linux/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/virtualbox/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/vm/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/windows/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/arch/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/blog/2020/01/arch-boot-broken-due-to-umount-boot-boot/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/grub/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/blog/2020/01/removing-python-on-raspbian-causes-some-unforseen-problems/</loc>
+    <lastmod>2020-01-13T15:12:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/tags/troubleshooting/</loc>
+    <lastmod>2020-01-13T15:12:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/categories/</loc>
+  </url>
+  
+</urlset>

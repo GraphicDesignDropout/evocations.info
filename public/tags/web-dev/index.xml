@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web dev on Evocations</title>
+    <link>http://www.evocations.info/tags/web-dev/</link>
+    <description>Recent content in web dev on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 16:28:12 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a Site With Hugo</title>
+      <link>http://www.evocations.info/blog/2020/01/creating-a-site-with-hugo/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/creating-a-site-with-hugo/</guid>
+      <description>Searching for a CMS was somewhat daunting. I needed something lightweight, but highly customizable. It had to be able to create a website small enough to run on my RaspberryPi, and preferrably be open source. Having minimal web design experience, I didn&amp;rsquo;t want to learn the ins and outs of HTML and CSS, only for my site to come out subpar.
+It took a while, but eventually I settled on Hugo</description>
+    </item>
+    
+  </channel>
+</rss>

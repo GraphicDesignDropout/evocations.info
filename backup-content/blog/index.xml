@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Evocations</title>
+    <link>http://www.evocations.info/blog/</link>
+    <description>Recent content in Blogs on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 13:47:56 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Constructing a Site With Hugo</title>
+      <link>http://www.evocations.info/blog/2020-01-26/</link>
+      <pubDate>Sun, 26 Jan 2020 13:47:56 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020-01-26/</guid>
+      <description>Searching for a CMS was somewhat daunting. I needed something lightweight, but highly customizable. It had to be able to create a website small enough to run on my RaspberryPi, and preferrably be open source. Having minimal web design experience, I didn&amp;rsquo;t want to learn the ins and outs of HTML and CSS, only for my site to come out subpar.
+It took a while, but eventually I settled on Hugo I plan on writing a guide for it while I learn how to use it correctly.</description>
+    </item>
+    
+    <item>
+      <title>Booting a preexisting OS in Virtualbox</title>
+      <link>http://www.evocations.info/blog/2020-01-25/</link>
+      <pubDate>Sat, 25 Jan 2020 22:59:56 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020-01-25/</guid>
+      <description>I had an idea to get around rebooting to play some of the Windows games I enjoy. Why not virtualize a windows environment? What kind of performance can I get from a Windows VM?
+Unfortunately, not great performance without some serious tinkering.
+My current configuration is dual-boot Windows (Gaming) and Arch Linux (Work/Browsing). Quite a lot of my data was created before installing Linux, and at this point, would be too much of a hastle to organize.</description>
+    </item>
+    
+    <item>
+      <title>Wow, that&#39;s a lot of Chinese bots</title>
+      <link>http://www.evocations.info/blog/2020-01-22/</link>
+      <pubDate>Wed, 22 Jan 2020 22:51:06 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020-01-22/</guid>
+      <description>If you&amp;rsquo;re new to IT like me, you might be surprised by how much your server is targeted. I run a small home server using a Raspberry Pi. It allows SSH connections via web, and I had no idea how much traffic it could get. I got curious and checked /var/log/auth.log.
+Tens of failed authorizations each second.
+Most of the IP address were coming from Chinese ISPs, or DigitalOcean servers. I wonder what these bots do once they break in?</description>
+    </item>
+    
+    <item>
+      <title>Arch boot broken due to umount /boot</title>
+      <link>http://www.evocations.info/blog/2020-01-20/</link>
+      <pubDate>Mon, 20 Jan 2020 22:33:57 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020-01-20/</guid>
+      <description>I can&amp;rsquo;t pin down exactly when it happened, but at some point my laptop&amp;rsquo;s Arch partition stopped booting. It would give me an error &amp;ldquo;You must load the Linux kernel first!&amp;rdquo; What in hell do you mean by that? What changed since last week? You were fine last time I used you!
+I suspected an issue with GRUB, but I understand now what actually happened. Some how, Linux had upgraded without /boot mounted, causing a version discrepency.</description>
+    </item>
+    
+    <item>
+      <title>Removing Python on Raspbian causes some unforseen problems</title>
+      <link>http://www.evocations.info/blog/2020-01-13/</link>
+      <pubDate>Mon, 13 Jan 2020 23:24:17 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020-01-13/</guid>
+      <description>On Raspbian, I was having an issue with Python3. My first instinct was to uninstall and reinstall.
+Que &amp;ldquo;I can fix it&amp;rdquo;:
+$ sudo apt remove python3  &amp;ldquo;Oh f#@&amp;amp;&amp;rdquo;
+Turns out, Debian (And by extension Raspbian) uses Python for tons of things.
+Que: Panic. A lot of it. I started mashing CTRL-C
+In the end it didn&amp;rsquo;t uninstall too many things, and my terminal was still functioning, so I tried to repair the damage.</description>
+    </item>
+    
+  </channel>
+</rss>

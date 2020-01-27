@@ -1,0 +1,30 @@
+baseURL = "http://www.evocations.info"
+languageCode = "en-us"
+title = "Evocations"
+theme = "diary" 
+enableGitalk = true
+copyright = "evocations.info 2020"
+
+[[params.gitalk]]
+owner = "IamTsofu"
+repo = "GraphicDesignDropout/evocations.info"
+
+[[menu.main]]
+url = "/contact"
+name = "Contact"
+weight = 99
+
+[[menu.main]]
+url = "/downloads"
+name = "Downloads"
+weight = 2
+
+[[menu.main]]
+url = "/blog"
+name = "Blog"
+weight = 3
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 4

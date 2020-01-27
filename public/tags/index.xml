@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Evocations</title>
+    <link>http://www.evocations.info/tags/</link>
+    <description>Recent content in Tags on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 16:28:12 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CMS</title>
+      <link>http://www.evocations.info/tags/cms/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>http://www.evocations.info/tags/css/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>http://www.evocations.info/tags/html/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://www.evocations.info/tags/hugo/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>http://www.evocations.info/tags/site/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web dev</title>
+      <link>http://www.evocations.info/tags/web-dev/</link>
+      <pubDate>Sun, 26 Jan 2020 16:28:12 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/web-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache2</title>
+      <link>http://www.evocations.info/tags/apache2/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/apache2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://www.evocations.info/tags/python/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>http://www.evocations.info/tags/raspberry-pi/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspbian</title>
+      <link>http://www.evocations.info/tags/raspbian/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/raspbian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSH</title>
+      <link>http://www.evocations.info/tags/ssh/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Server</title>
+      <link>http://www.evocations.info/tags/web-server/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/web-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>http://www.evocations.info/tags/gaming/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://www.evocations.info/tags/linux/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VirtualBox</title>
+      <link>http://www.evocations.info/tags/virtualbox/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/virtualbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VM</title>
+      <link>http://www.evocations.info/tags/vm/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://www.evocations.info/tags/windows/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arch</title>
+      <link>http://www.evocations.info/tags/arch/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRUB</title>
+      <link>http://www.evocations.info/tags/grub/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.evocations.info/tags/grub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>http://www.evocations.info/tags/troubleshooting/</link>
+      <pubDate>Mon, 13 Jan 2020 15:12:44 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

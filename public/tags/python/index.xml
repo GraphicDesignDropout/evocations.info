@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Evocations</title>
+    <link>http://www.evocations.info/tags/python/</link>
+    <description>Recent content in Python on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Wed, 22 Jan 2020 15:36:02 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wow, That&#39;s a Lot of Chinese Bots</title>
+      <link>http://www.evocations.info/blog/2020/01/wow-thats-a-lot-of-chinese-bots/</link>
+      <pubDate>Wed, 22 Jan 2020 15:36:02 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/wow-thats-a-lot-of-chinese-bots/</guid>
+      <description>If you’re new to IT like me, you might be surprised by how much your server is targeted. I run a small home server using a Raspberry Pi. It allows SSH connections via web, and I had no idea how much traffic it could get. I got curious and checked /var/log/auth.log.
+Tens of failed authorizations each second.
+Most of the IP address were coming from Chinese ISPs, or DigitalOcean servers. I wonder what these bots do once they break in?</description>
+    </item>
+    
+    <item>
+      <title>Removing Python on Raspbian causes some unforseen problems</title>
+      <link>http://www.evocations.info/blog/2020/01/removing-python-on-raspbian-causes-some-unforseen-problems/</link>
+      <pubDate>Mon, 13 Jan 2020 15:12:44 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/removing-python-on-raspbian-causes-some-unforseen-problems/</guid>
+      <description>On Raspbian, I was having an issue with Python3. My first instinct was to uninstall and reinstall.
+Que “I can fix it”:
+$ sudo apt remove python3  “Oh f#@&amp;amp;”
+Turns out, Debian (And by extension Raspbian) uses Python for tons of things.
+Que: Panic. A lot of it. I started mashing CTRL-C
+In the end it didn’t uninstall too many things, and my terminal was still functioning, so I tried to repair the damage.</description>
+    </item>
+    
+  </channel>
+</rss>

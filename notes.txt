@@ -1,0 +1,4 @@
+To Do:
+
+Create static pages for Blog, About/Contact, and maybe Downloads?
+Remove blog static page from homepage feed

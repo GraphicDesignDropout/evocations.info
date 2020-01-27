@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting on Evocations</title>
+    <link>http://www.evocations.info/tags/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on Evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations.info 2020</copyright>
+    <lastBuildDate>Mon, 13 Jan 2020 15:12:44 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.evocations.info/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Removing Python on Raspbian causes some unforseen problems</title>
+      <link>http://www.evocations.info/blog/2020/01/removing-python-on-raspbian-causes-some-unforseen-problems/</link>
+      <pubDate>Mon, 13 Jan 2020 15:12:44 -0800</pubDate>
+      
+      <guid>http://www.evocations.info/blog/2020/01/removing-python-on-raspbian-causes-some-unforseen-problems/</guid>
+      <description>On Raspbian, I was having an issue with Python3. My first instinct was to uninstall and reinstall.
+Que “I can fix it”:
+$ sudo apt remove python3  “Oh f#@&amp;amp;”
+Turns out, Debian (And by extension Raspbian) uses Python for tons of things.
+Que: Panic. A lot of it. I started mashing CTRL-C
+In the end it didn’t uninstall too many things, and my terminal was still functioning, so I tried to repair the damage.</description>
+    </item>
+    
+  </channel>
+</rss>
