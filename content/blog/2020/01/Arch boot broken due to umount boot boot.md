@@ -4,6 +4,9 @@ description: "How in hell did I manage that?"
 date: 2020-01-20
 draft: false
 tags: ["Arch","Linux","GRUB"]
+
+showpage: true
+
 ---
 
 I can’t pin down exactly when it happened, but at some point my laptop’s Arch partition stopped booting. It would give me an error “You must load the Linux kernel first!” What in hell do you mean by that? What changed since last week? You were fine last time I used you!

@@ -5,6 +5,7 @@ date: 2020-01-22T15:36:02-08:00
 tags: ["Raspberry Pi","Raspbian","Apache2","SSH","Web Server","Python"]
 featured_image: "/images/count2json.png"
 draft: false
+showpage: true
 ---
 
 If you’re new to IT like me, you might be surprised by how much your server is targeted. I run a small home server using a Raspberry Pi. It allows SSH connections via web, and I had no idea how much traffic it could get. I got curious and checked /var/log/auth.log.

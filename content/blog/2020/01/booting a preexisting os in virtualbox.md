@@ -4,6 +4,7 @@ description: "Because Linux is /comfy/ but WINE is inconistent"
 date: 2020-01-22
 tags: ["Linux","VirtualBox","Gaming","VM","Windows"]
 draft: false
+showpage: true
 ---
 
 I had an idea to get around rebooting to play some of the Windows games I enjoy. Why not virtualize a windows environment? What kind of performance can I get from a Windows VM?

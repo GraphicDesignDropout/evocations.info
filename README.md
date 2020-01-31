@@ -1,2 +1,2 @@
 # evocations.info
-Blog
+[BLOG](http://evocations.info)

@@ -4,6 +4,7 @@ description: "The dangers of troubleshooting without --dry-run"
 date: 2020-01-13T15:12:44-08:00
 tags: ["Raspbian","Linux","Python","Troubleshooting"]
 draft: false
+showpage: true
 ---
 
 On Raspbian, I was having an issue with Python3. My first instinct was to uninstall and reinstall.

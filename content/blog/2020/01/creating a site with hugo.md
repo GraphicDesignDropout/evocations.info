@@ -5,6 +5,7 @@ date: 2020-01-26T16:28:12-08:00
 tags: ["web dev","site","hugo","HTML","CSS","CMS"]
 featured_image: "/images/hugo-logo-wide.png"
 draft: false
+showpage: true
 ---
 
 Searching for a CMS was somewhat daunting. I needed something lightweight, but highly customizable. It had to be able to create a website small enough to run on my RaspberryPi, and preferrably be open source.

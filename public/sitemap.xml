@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.evocations.info/downloads/</loc>
+    <lastmod>2020-01-30T21:38:09-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/</loc>
+    <lastmod>2020-01-30T21:38:09-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.evocations.info/blog/</loc>
     <lastmod>2020-01-26T16:28:12-08:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>http://www.evocations.info/tags/css/</loc>
-    <lastmod>2020-01-26T16:28:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.evocations.info/</loc>
     <lastmod>2020-01-26T16:28:12-08:00</lastmod>
   </url>
   
@@ -143,12 +148,19 @@
   </url>
   
   <url>
+    <loc>http://www.evocations.info/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.evocations.info/blog/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.evocations.info/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.evocations.info/contact/</loc>
   </url>
   
 </urlset>
